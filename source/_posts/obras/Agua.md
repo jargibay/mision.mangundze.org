@@ -1,6 +1,7 @@
 ---
 title: Agua y Saneamiento
 thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
+img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 categories:
   - Nuestro Trabajo
   - Agua y Saneamiento
