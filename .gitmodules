@@ -1,3 +1,4 @@
 [submodule "themes/matery"]
 	path = themes/matery
 	url = https://github.com/jargibay/hexo-theme-matery.git
+        branch = mision-mangundze
