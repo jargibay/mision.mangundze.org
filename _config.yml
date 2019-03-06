@@ -104,7 +104,7 @@ hfc_css:
     - "*.min.css"
 
 hfc_js:
-  enable: true
+  enable: false
   mangle: true
   output:
   compress: true
@@ -112,7 +112,7 @@ hfc_js:
     - "*.min.js"
 
 hfc_img:
-  enable: false
+  enable: true
   interlaced: true
   multipass: true
   optimizationLevel: 2
@@ -129,7 +129,7 @@ hfc_img:
 
 hfc_favicons:
   enable: true
-  src: "http://cdn.mangundze.org/parroquia/000004.jpg"
+  src: "../../../../cdn.mangundze.org/parroquia/000004.jpg"
   target: "/media/logo/"
   icons:
     android: true
@@ -141,3 +141,13 @@ hfc_favicons:
     opengraph: true
     windows: true
     yandex: false
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
