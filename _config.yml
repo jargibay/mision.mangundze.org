@@ -5,7 +5,7 @@
 # Site
 title: Misión Mangundze
 subtitle: Bienvenidos a la Misión
-description:
+description: Estamos juntos
 keywords:
 author: Jorge Argibay
 language: es
@@ -129,7 +129,7 @@ hfc_img:
 
 hfc_favicons:
   enable: true
-  src: "../../../../cdn.mangundze.org/parroquia/000004.jpg"
+  src: "http://cdn.mangundze.org/parroquia/000004.jpg"
   target: "/media/logo/"
   icons:
     android: true

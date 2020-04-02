@@ -6,11 +6,11 @@ date: 2018-11-17 12:30:28
 tags:
   - Proyectos
   - Agua Segura
-  - Bidondes
+  - Bidones
 categories:
   - Sobre Nosotros
   - Proyectos
-  - Bidondes
+  - Bidones
 comment:
   facebook:
     language: es_LA
