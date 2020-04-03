@@ -3,10 +3,7 @@ title: Donde Estamos
 date: 2018-11-18 21:10:54
 thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
 img: http://cdn.mangundze.org/parroquia/000004.jpg
-tags:
-  - Mozambique
-  - Gaza
-  - Mangundze
+tags: false
 categories:
   - Sobre Nosotros
   - Donde estamos
