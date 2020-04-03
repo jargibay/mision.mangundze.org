@@ -129,7 +129,7 @@ hfc_img:
 
 hfc_favicons:
   enable: true
-  src: "http://cdn.mangundze.org/parroquia/000004.jpg"
+  src: "../../../../cdn.mangundze.org/public/mision-mangundze-logo.jpg"
   target: "/media/logo/"
   icons:
     android: true
