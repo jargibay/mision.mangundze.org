@@ -1,10 +1,10 @@
 ---
-title: Educación
+title: Deporte
 thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 categories:
-  - Nuestro Trabajo
-  - Educación
+  - Proyectos
+  - Deporte
 comment:
   facebook:
     language: es_LA

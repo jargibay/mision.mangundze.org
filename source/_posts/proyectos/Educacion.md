@@ -1,11 +1,10 @@
 ---
-title: Agua y Saneamiento
-summary: Resumen Agua y Saneamiento
+title: Educación
 thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 categories:
-  - Nuestro Trabajo
-  - Agua y Saneamiento
+  - Proyectos
+  - Educación
 comment:
   facebook:
     language: es_LA

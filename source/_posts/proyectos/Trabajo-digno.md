@@ -5,7 +5,7 @@ thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 tags: false
 categories:
-  - Nuestro Trabajo
+  - Proyectos
   - Trabajo Digno
 comment:
   facebook:
