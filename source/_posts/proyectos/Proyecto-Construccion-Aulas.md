@@ -4,6 +4,7 @@ thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
 categories:
   - Proyectos
+  - Educación
   - Construcción de Aulas
 comment:
   facebook:
