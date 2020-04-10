@@ -1,7 +1,6 @@
 ---
 title: Proyecto Agua Segura
-thumbnail: http://cdn.mangundze.org/Agua Segura/000001.jpg
-img: http://cdn.mangundze.org/bidones/000001.jpg
+thumbnail: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
 date: 2018-11-17 12:30:28
 tags: false
 categories:

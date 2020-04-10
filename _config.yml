@@ -151,3 +151,17 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+archive_generator:
+  enabled: true
+  per_page: 10
+  yearly: true
+  monthly: true
+  daily: false
+  order_by: -date
+
+node_sass:
+  debug: true
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
