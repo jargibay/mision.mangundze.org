@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Misión Mangundze
-subtitle: Bienvenidos a la Misión Mangundze
+title: Missão Mangundze
+subtitle: Benvindos na Missão Mangundze
 description: Estamos juntos
-keywords: Misión Missão Mangundze Gaza Mozambique
+keywords: Missão Mangundze Gaza Mozambique
 author: Jorge Argibay
-language: es
+language: pt
 timezone: Africa/Maputo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mision.mangundze.org/
+url: http://missao.mangundze.org/
 root: /
 permalink: /:title/
 permalink_defaults:
