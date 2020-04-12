@@ -17,6 +17,7 @@ menu:
     url: /
     icon: fa-home
   Proyectos:
+    url: /categories/Proyectos/
     icon: fa-tasks
   Sobre Nosotros:
     icon: fa-user-circle-o
