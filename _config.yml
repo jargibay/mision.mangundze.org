@@ -11,6 +11,20 @@ author: Jorge Argibay
 language: pt
 timezone: Africa/Maputo
 
+# main menu navigation url and icon
+menu:
+  Casa:
+    url: /
+    icon: fa-home
+  Proyectos:
+    icon: fa-tasks
+  Sobre Nosotros:
+    icon: fa-user-circle-o
+    dropdownMenuId: Nosotros
+  Donar:
+    url: /donar/
+    icon: fa-money
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://missao.mangundze.org/
