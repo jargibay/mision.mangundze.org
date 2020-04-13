@@ -3,32 +3,32 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Misión Mangundze
-subtitle: Bienvenidos a la Misión Mangundze
-description: Estamos juntos
-keywords: Misión Missão Mangundze Gaza Mozambique
+title: Mangundze Mission
+subtitle: Welcome to Mangundze Mission
+description: We are, when we are together
+keywords: Missão Mangundze Gaza Mozambique
 author: Jorge Argibay
-language: es
+language: en
 timezone: Africa/Maputo
 
 # main menu navigation url and icon
 menu:
-  Casa:
+  Home:
     url: /
     icon: fa-home
-  Proyectos:
-    url: /categories/Proyectos/
+  Projects:
+    url: /categories/projects/
     icon: fa-tasks
-  Sobre Nosotros:
+  About us:
     icon: fa-user-circle-o
-    dropdownMenuId: Nosotros
-  Donar:
-    url: /donar/
+    dropdownMenuId: about
+  Donations:
+    url: /donate/
     icon: fa-money
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mision.mangundze.org/
+url: http://mission.mangundze.org/
 root: /
 permalink: /:title/
 permalink_defaults:
