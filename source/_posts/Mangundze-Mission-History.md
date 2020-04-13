@@ -1,12 +1,12 @@
 ---
-title: Historia de la Misión Mangundze
+title: Mangundze Mission History
 date: 2018-11-18 20:38:50
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
-img: http://cdn.mangundze.org/parroquia/000004.jpg
+img: http://cdn.mangundze.org/parroquia/000009.jpg
+summary: A brief history of the Mangundze Mission.
 tags: false
 categories:
-  - Sobre Nosotros
-  - Historia de la Misión
+  - About us
+  - Mission history
 comment:
   facebook:
     language: es_LA

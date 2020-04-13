@@ -1,12 +1,12 @@
 ---
-title: Biografía de Juan Gabriel Arias
+title: Our parish priest, Juan Gabriel Arias.
 date: 2018-11-18 20:44:44
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
-img: http://cdn.mangundze.org/parroquia/000004.jpg
+img: http://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg
+summary: Our parish priest came from Argentina, and found his place here in Mangundze, Mozambique.
 tags: false
 categories:
-  - Sobre Nosotros
-  - Autoridades
+  - About us
+  - Parish priest
   - Juan Gabriel Arias
 comment:
   facebook:

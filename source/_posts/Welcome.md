@@ -1,7 +1,7 @@
 ---
-title: Bienvenidos a la Misión en Mangundze
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
-img: http://cdn.mangundze.org/parroquia/000004.jpg
+title: Welcome to Mangundze Mission
+img: http://cdn.mangundze.org/parroquia/000009.jpg
+summary: Here you will find the reconstruction work already done to the building and facilities.
 date: 2018-11-15 14:40:44
 tags: false
 categories: false

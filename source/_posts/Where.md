@@ -1,13 +1,11 @@
 ---
-title: Donde Estamos
+title: Where we are
 date: 2018-11-18 21:10:54
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
-img: http://cdn.mangundze.org/parroquia/000004.jpg
-summary: La Misión Mangundze está situada en los distritos de Manjacaze y Chongoene, en la diócesis de Xai-Xai, Provincia de Gaza, República de Mozambique.
+img: http://cdn.mangundze.org/parroquia/000007.jpg
+summary: Mangundze Mission is located between Manjacaze and Chongoene districts, Xai-Xai diocese, Gaza province, Mozambique Republic.
 tags: false
 categories:
-  - Sobre Nosotros
-  - Donde estamos
+  - About us
 comment:
   facebook:
     language: es_LA

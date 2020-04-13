@@ -1,12 +1,11 @@
 ---
-title: Proyecto Agua Segura
-thumbnail: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
+title: Hippo Rollers Project
+img: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
+summary: Thanks to the Carlos Morgado foundation, the community received 50 Hippo Rollers.
 date: 2018-11-17 12:30:28
 tags: false
 categories:
-  - Sobre Nosotros
-  - Proyectos
-  - Hippo Rollers
+  - Projects
 comment:
   facebook:
     language: es_LA
