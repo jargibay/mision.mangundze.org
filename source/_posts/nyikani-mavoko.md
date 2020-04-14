@@ -29,5 +29,7 @@ Autoridades:
 1. Stefano Paris – 1° Vocal
 1. Sheila Osmane Mossa – 2° Vocal
 
-{% iframe "/documentos/Estatutos.pdf" %}
-{% iframe "/documentos/Registro CREL.pdf" %}
+{% iframe "/documentos/Estatutos.pdf" 80% 900px %}
+{% iframe "/documentos/Registro CREL.pdf" 80% 900px %}
+{% iframe "/documentos/Boletim da Republica.pdf" 80% 900px %}
+{% iframe "/documentos/NUIT.pdf" 80% 900px %}
