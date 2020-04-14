@@ -32,4 +32,4 @@ Las vacaciones de los voluntarios se conectan con una labor social, con construi
 
 ***
 
-###### **_Este proyectro contribuye al logro del Objetivo de Desarrollo Sostenible (ODS) N° 4: Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos._**
+###### **_Este proyecto contribuye al logro del Objetivo de Desarrollo Sostenible (ODS) N° 4: Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos._**
