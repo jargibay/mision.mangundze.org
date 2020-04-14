@@ -26,7 +26,9 @@ Desde la Misión Mangundze se realiza un acompañamiento de esta iniciativa que 
 El objetivo de este proyecto es potenciar agentes de cambio mediante el desarrollo de habilidades y por otro, generar soluciones concretas en comunidades rurales de Mozambique.
 Las vacaciones de los voluntarios se conectan con una labor social, con construir aulas, alojarse en casas de familias dentro de la comunidad y generar vínculos y aprendizajes comunes. 
 
-> Más información: https://www.somosdelmundo.org/ 
+> Más información: https://www.somosdelmundo.org/
+
+{% youtube 79LcOcFuAXw %}
 
 ***
 

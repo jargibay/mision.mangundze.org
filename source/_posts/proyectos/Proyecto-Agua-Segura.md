@@ -4,7 +4,6 @@ thumbnail: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
 date: 2018-11-17 12:30:28
 tags: false
 categories:
-  - Sobre Nosotros
   - Proyectos
   - Hippo Rollers
 comment:
@@ -40,3 +39,7 @@ Con los Hippo Rollers, la población puede recolectar agua potable y transportar
 ***
 
 ###### **_Este proyectro contribuye al logro del Objetivo de Desarrollo Sostenible (ODS) N° 6: "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos"._**
+
+## Los Hippo Rollers en acción
+
+{% youtube mwApt-3gXls %}
