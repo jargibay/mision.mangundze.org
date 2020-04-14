@@ -20,9 +20,6 @@ Es argentino. Nació el 27 de febrero de 1968. Es Sacerdote de la Arquidiócesis
 ## En los medios
 
 {% youtube IxK4QZBeDZA %}
----
-### Entrevista a los Cascos Blancos, en misión de ayuda.
-{% youtube PrwLILdxNI4%}
 
 ### Las misas tienen una alegría especial
 {% youtube _pxXEeNArJw%}
