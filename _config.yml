@@ -20,6 +20,7 @@ menu:
     url: /categories/Proyectos/
     icon: fa-tasks
   Sobre Nosotros:
+    url: /nyikani-mavoko/
     icon: fa-user-circle-o
     dropdownMenuId: Nosotros
   Donar:
