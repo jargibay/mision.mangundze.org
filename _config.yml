@@ -13,7 +13,7 @@ timezone: Africa/Maputo
 
 # main menu navigation url and icon
 menu:
-  Casa:
+  Inicio:
     url: /
     icon: fa-home
   Proyectos:
@@ -26,6 +26,10 @@ menu:
   Donar:
     url: /donar/
     icon: fa-money
+  English:
+    url: http://mission.mangundze.org/
+  Portugués:
+    url: http://missao.mangundze.org/
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

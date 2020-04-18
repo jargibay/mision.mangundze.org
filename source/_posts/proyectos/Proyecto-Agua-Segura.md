@@ -1,6 +1,7 @@
 ---
 title: Proyecto Agua Segura
-thumbnail: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
+summary: El proyecto de Hippo Rollers de la Fundación Carlos Morgado.
+img: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
 date: 2018-11-17 12:30:28
 tags: false
 categories:

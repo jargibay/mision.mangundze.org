@@ -1,6 +1,7 @@
 ---
 title: Nuestro Trabajo
-thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
+thumbnail: 'http://cdn.mangundze.org/parroquia/000002.jpg'
+summary: Trabajamos para contribuir al desarrollo integral de la comunidad.
 categories:
   - Sobre Nosotros
 comment:
@@ -13,7 +14,7 @@ tags:
 ---
 ## **Nuestro trabajo**
 
-Trabajamos para contribuir al desarrollo integral de las comunidades de la Misión San Benedicto de Mangundze, a través de distintos proyectos y propuestas, abarcando temáticas transversales como salud, educación, nutrición, deporte, agua y saneamiento, género, resiliencia y gestión del riesgo de desastres.
+Trabajamos para contribuir al desarrollo integral de las comunidades de la Misión San Benito de Mangundze, a través de distintos proyectos y propuestas, abarcando temáticas transversales como salud, educación, nutrición, deporte, agua y saneamiento, género, resiliencia y gestión del riesgo de desastres.
 
 Implementamos nuestros proyectos a través de alianzas estratégicas y con la activa participación de la comunidad, ya que buscamos que nuestras acciones sean sustentables y con impacto.
 

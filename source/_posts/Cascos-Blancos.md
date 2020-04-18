@@ -2,7 +2,7 @@
 title: Misión humanitaria de los Cascos Blancos
 date: 2018-11-18 21:10:54
 img: http://cdn.mangundze.org/parroquia/000010.jpg
-summary: La Comisión Cascos Blancos de la Cancillería argentina realizó una misión en la Misión Mangundze.
+summary: El proyecto para el fortalecimiento de las capacidades de auto producción de alimentos en Mangundze
 tags: false
 categories:
   - Cascos Blancos

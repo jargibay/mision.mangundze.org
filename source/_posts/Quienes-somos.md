@@ -13,7 +13,7 @@ comment:
 ---
 ## **Quiénes Somos**
 
-La **Misión San Benedicto de Mangundze** es una localidad que se encuentra a 240 kilómetros de Maputo, la capital de Mozambique, y a 35 kilómetros de Xai-Xai, capital de la provincia de Gaza.
+La **Misión San Benito de Mangundze** es una localidad que se encuentra a 240 kilómetros de Maputo, la capital de Mozambique, y a 35 kilómetros de Xai-Xai, capital de la provincia de Gaza.
 El distrito donde está ubicada se llama Manjacaze donde actualmente habitan alrededor de 140,588 personas (Fuente: INE, Projecções, Anuais, da População Total das Províncias e Distrito, 2019). La mayoría de la población habla portugués pero existen otras lenguas nativas, entre las que se destaca el changana.
 
 La Iglesia de la Misión es conocida en Mozambique por su tamaño monumental de 15 metros de ancho, 60 metros de largo y 15 metros de ancho, que fue solemnemente bendecida el 6 de septiembre de 1942. Abarca 44 capillas y la más lejana está ubicada a 90 kilómetros.
@@ -25,7 +25,7 @@ Hoy la Iglesia es liderada por el Presbítero Juan Gabriel Arias, un párroco ar
 >
 Cada una de las actividades que se realizan en la Misión tienen como beneficiarios a todas las personas sin distinción de género, raza, idioma ni religión. 
 
-En 2016, con la finalidad de acompañar y apoyar al desarrollo de las diferentes iniciativas que se realizan en la Misión San Benedicto de Mangundze, un grupo de la comunidad creó la “Associação Benéfica Nyikani Mavoko”.
+En 2016, con la finalidad de acompañar y apoyar al desarrollo de las diferentes iniciativas que se realizan en la Misión San Benito de Mangundze, un grupo de la comunidad creó la “Associação Benéfica Nyikani Mavoko”.
 
 También se recibe el apoyo de la Fundación Messi, Scholas Occurrentes, Misión Mangundze Salud, Cascos Blancos y muchas otras organizaciones que contribuyen al desarrollo de la comunidad y a promover la dignidad humana.
 {% img http://cdn.mangundze.org/parroquia/000001.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}

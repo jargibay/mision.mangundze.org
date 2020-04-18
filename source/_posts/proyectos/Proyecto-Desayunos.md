@@ -1,7 +1,7 @@
 ---
 title: Proyecto Desayunos
 img: 'http://cdn.mangundze.org/fundaciones/fundacion-messi.png'
-summary: Gracias a la Fundación Leo Messi, alrededor de 15.000 niños y niñas de Mangundze reciben un desayuno.
+summary: El programa de Fundación Leo Messi en Mangundze.
 categories:
   - Proyecto Desayunos
 comment:

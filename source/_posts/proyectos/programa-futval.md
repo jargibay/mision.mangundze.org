@@ -1,7 +1,7 @@
 ---
-title: Programa FutVal de la Fundación Scholas Ocurrentes
+title: Programa FutVal
 img: http://cdn.mangundze.org/fundaciones/fundacion-scholas.png
-summary: Fundación Scholas colabora con la Misión Mangundze....
+summary: El programa de Scholas Occurrentes en Mangundze
 date: 2020-11-17 12:30:28
 tags: false
 categories:
