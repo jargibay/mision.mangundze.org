@@ -14,7 +14,7 @@ comment:
     comment_colorscheme: dark
 ---
 
-# Sobre la Fundación “Associação Benéfica Nyikani Mavoko”.
+# Sobre la Fundación “Associação Nyikani Mavoko”.
 La Asociación Nyikani Mavoko es una organización sin fines de lucro con personería jurídica y autonomía administrativa, financiera y patrimonial, aprobada por normativa de Mozambique el 15 de julio de 2016, bajo el Número Único de Identificación Tributaria: 700158901. 
 Tiene su sede en la Misión San Benito de Mangundze, distrito de Manjakaze, Provincia de Gaza.
 Sus Objetivos son:
