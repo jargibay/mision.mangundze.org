@@ -25,10 +25,10 @@ menu:
     url: /donar/
     icon: fa-money
   Español:
-    url: http://mision.mangundze.org/
+    url: https://mision.mangundze.org/
     icon: fa-home
-  Portugues:
-    url: http://missao.mangundze.org/
+  English:
+    url: https://mission.mangundze.org/
     icon: fa-home
 
 # URL
