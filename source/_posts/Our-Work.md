@@ -12,16 +12,15 @@ comment:
 date: 2020-04-08 16:55:10
 tags:
 ---
-## **Our work**
 
-Trabajamos para contribuir al desarrollo integral de las comunidades de la Misión San Benedicto de Mangundze, a través de distintos proyectos y propuestas, abarcando temáticas transversales como salud, educación, nutrición, deporte, agua y saneamiento, género, resiliencia y gestión del riesgo de desastres.
+## **Our Work**
 
-Implementamos nuestros proyectos a través de alianzas estratégicas y con la activa participación de la comunidad, ya que buscamos que nuestras acciones sean sustentables y con impacto.
+Our work aims to contribute to the integral development of the community by implementing different projects. We cover transversal areas like health, education, nutrition, sports, water and sanitation, gender, and resilience.
 
-Según el Informe sobre Desarrollo Humano 2018 del Programa de las Naciones Unidas para el Desarrollo (PNUD) en Mozambique viven 29.7 millones de personas, de las cuales 62.9% vive por debajo de la línea de pobreza de ingresos, viviendo con menos USD$ 1.90 al día.
+We execute our projects through strategic alliances and with the support of the community because we attempt to make our activities sustainable.
 
-Asimismo, según el Programa Mundial de Alimentos, un tercio de la población se encuentra en situación de inseguridad alimentaria crónica y medio millón de niños de 6-23 meses en estado de desnutrición.
+According to the United Nations Development Programme's Human Development Report, in 2018, 29.7 million people live in Mozambique. Of the total population, 62.9% lives below the income poverty line, living with less than USD 1.90 per day.
 
-El 80% de la población depende de la agricultura a pequeña escala con una rentabilidad muy baja. La agricultura es la principal actividad económica en Mozambique y unos 3.200.000 pequeños agricultores generan el 95% de la producción de este sector.ß
+Besides, according to the World Food Programme, one-third of the population is chronically food insecure and half a million children aged 6-23 months are undernourished.
 
-Nuestros proyectos tienen como finalidad abordar de manera integral los aspectos esenciales necesarios para desarrollar una vida digna.
+Under these circumstances, our projects intend to comprehensively address the essential subjects needed to develop a dignified life, before-mentioned as health, education, gender equality, water, and sanitation.
