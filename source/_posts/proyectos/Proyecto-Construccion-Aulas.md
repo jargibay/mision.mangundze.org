@@ -1,6 +1,6 @@
 ---
 title: Construcción de Aulas
-img: 'http://cdn.mangundze.org/parroquia/000010.jpg'
+img: 'https://cdn.mangundze.org/parroquia/000010.jpg'
 summary: El programa de <b>Somos del Mundo</b> en Mozambique
 categories:
   - Proyectos

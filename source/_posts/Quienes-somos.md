@@ -1,7 +1,6 @@
 ---
 title: La Misión en Mangundze
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
-img: http://cdn.mangundze.org/parroquia/000004.jpg
+img: https://cdn.mangundze.org/parroquia/000004.jpg
 date: 2018-11-15 14:40:44
 tags: false
 categories: false
@@ -28,13 +27,13 @@ Cada una de las actividades que se realizan en la Misión tienen como beneficiar
 En 2016, con la finalidad de acompañar y apoyar al desarrollo de las diferentes iniciativas que se realizan en la Misión San Benito de Mangundze, un grupo de la comunidad creó la “Associação Benéfica Nyikani Mavoko”.
 
 También se recibe el apoyo de la Fundación Messi, Scholas Occurrentes, Misión Mangundze Salud, Cascos Blancos y muchas otras organizaciones que contribuyen al desarrollo de la comunidad y a promover la dignidad humana.
-{% img http://cdn.mangundze.org/parroquia/000001.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}
+{% img https://cdn.mangundze.org/parroquia/000001.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}
 
-{% img http://cdn.mangundze.org/parroquia/000002.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}
+{% img https://cdn.mangundze.org/parroquia/000002.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}
 
-{% img http://cdn.mangundze.org/parroquia/000003.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}
+{% img https://cdn.mangundze.org/parroquia/000003.jpg [La parroquia, tal como lo encontró Juan Gabriel.] %}
 
-{% img http://cdn.mangundze.org/parroquia/000004.jpg [La parroquia, al día de hoy.] %}
+{% img https://cdn.mangundze.org/parroquia/000004.jpg [La parroquia, al día de hoy.] %}
 
-{% img http://cdn.mangundze.org/parroquia/000005.jpg [La parroquia.] %}
-{% img http://cdn.mangundze.org/parroquia/000006.jpg [La parroquia.] %}
+{% img https://cdn.mangundze.org/parroquia/000005.jpg [La parroquia.] %}
+{% img https://cdn.mangundze.org/parroquia/000006.jpg [La parroquia.] %}

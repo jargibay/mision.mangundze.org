@@ -1,8 +1,7 @@
 ---
 title: Agua y Saneamiento
 summary: Resumen Agua y Saneamiento
-thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
-img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
+img: 'https://cdn.mangundze.org/parroquia/000004.jpg'
 categories:
   - Proyectos
   - Agua y Saneamiento

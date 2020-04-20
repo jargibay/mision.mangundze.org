@@ -1,8 +1,7 @@
 ---
 title: Nosotros
 date: 2019-03-05 18:16:39
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
-img: http://cdn.mangundze.org/parroquia/000001.jpg
+img: https://cdn.mangundze.org/parroquia/000001.jpg
 type: page
 layout: page
 comment: 

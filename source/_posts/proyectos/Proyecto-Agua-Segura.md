@@ -1,7 +1,7 @@
 ---
 title: Proyecto Agua Segura
 summary: El proyecto de Hippo Rollers de la Fundación Carlos Morgado.
-img: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
+img: https://cdn.mangundze.org/fundaciones/fundacion-morgado.png
 date: 2018-11-17 12:30:28
 tags: false
 categories:
@@ -19,11 +19,11 @@ comment:
 Gracias a la Fundación Carlos Morgado, que coordinó esta iniciativa, se logró  comprar y transportar 50 Hippo Water Rollers (www.hipporoller.org) desde Sudáfrica para ser entregadas al Padre Juan Gabriel Arias, quien fue el responsable de su distribución a la población.
 
 
-{% img http://cdn.mangundze.org/bidones/000002.jpg [Proyecto Agua Segura.] %}
+{% img https://cdn.mangundze.org/bidones/000002.jpg [Proyecto Agua Segura.] %}
 
 Un _Hippo Water Roller_ es un tambor de plástico de alta capacidad (90 litros) que se puede trasladar rodando cuando se llena, en lugar de los envases tradicionales que requieren transporte, a menudo en la cabeza. El plan fue que las familias compartieran los Hippo Water Roller, generando un impacto en la vida de 250 familias, o aproximadamente 1,250 personas.
 
-{% img http://cdn.mangundze.org/bidones/000003.jpg [Proyecto Agua Segura.] %}
+{% img https://cdn.mangundze.org/bidones/000003.jpg [Proyecto Agua Segura.] %}
 
 Con los Hippo Rollers, la población puede recolectar agua potable y transportarla fácilmente a sus hogares. El uso de esta solución tiene los siguientes beneficios inmediatos:
 
@@ -33,7 +33,7 @@ Con los Hippo Rollers, la población puede recolectar agua potable y transportar
 
 *El uso de Hippo Rollers no reemplaza la necesidad de nuevas fuentes de agua, pero con una vida útil de 5-7 años, aliviará este estrés en la comunidad mientras se hacen esfuerzos para abrir nuevos puntos de acceso al agua.*
 
-{% img http://cdn.mangundze.org/bidones/000004.jpg [Proyecto Agua Segura.] %}
+{% img https://cdn.mangundze.org/bidones/000004.jpg [Proyecto Agua Segura.] %}
 
 > Más información: http://www.carlosmorgado.org/pt/iniciativas/outros/hippo-rollers-em-mangundze/
 

@@ -1,8 +1,7 @@
 ---
 title: Nuestros Valores
 date: 2018-11-18 22:16:56
-thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
-img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
+img: 'https://cdn.mangundze.org/parroquia/000004.jpg'
 tags: false
 draft: true
 categories:

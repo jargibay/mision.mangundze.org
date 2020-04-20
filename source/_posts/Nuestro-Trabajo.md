@@ -1,6 +1,6 @@
 ---
 title: Nuestro Trabajo
-thumbnail: 'http://cdn.mangundze.org/parroquia/000002.jpg'
+thumbnail: 'https://cdn.mangundze.org/parroquia/000002.jpg'
 summary: Trabajamos para contribuir al desarrollo integral de la comunidad.
 categories:
   - Sobre Nosotros

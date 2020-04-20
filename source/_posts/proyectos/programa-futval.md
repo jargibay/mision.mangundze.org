@@ -1,6 +1,6 @@
 ---
 title: Programa FutVal
-img: http://cdn.mangundze.org/fundaciones/fundacion-scholas.png
+img: https://cdn.mangundze.org/fundaciones/fundacion-scholas.png
 summary: El programa de Scholas Occurrentes en Mangundze
 date: 2020-11-17 12:30:28
 tags: false

@@ -1,6 +1,6 @@
 ---
 title: Proyecto Desayunos
-img: 'http://cdn.mangundze.org/fundaciones/fundacion-messi.png'
+img: 'https://cdn.mangundze.org/fundaciones/fundacion-messi.png'
 summary: El programa de Fundación Leo Messi en Mangundze.
 categories:
   - Proyecto Desayunos

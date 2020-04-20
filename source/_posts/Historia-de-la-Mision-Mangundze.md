@@ -1,7 +1,7 @@
 ---
 title: Historia de la Misión Mangundze
 date: 2018-11-18 20:38:50
-img: http://cdn.mangundze.org/parroquia/000004.jpg
+img: https://cdn.mangundze.org/parroquia/000004.jpg
 summary: Un breve recorrido desde nuestros inicios en 1911 hasta hoy.
 tags: false
 categories:
@@ -18,8 +18,8 @@ comment:
 
 Los trabajos de fundación de la Misión, que originariamente se llamaba ´Missão de São Benedito dos Muchopes-Mangunze`, se iniciaron en julio de 1911. Su fundador fue el **padre Manuel de Jesús Benedicto**, sacerdote diocesano, que en 1934 les confió el trabajo a los Misioneros Franciscanos.
 
-![Missão de São Benedito dos Muchopes-Mangunze, 1937](http://cdn.mangundze.org/parroquia/000007.jpg)
-![Missão de São Benedito dos Muchopes-Mangunze](http://cdn.mangundze.org/parroquia/000008.jpg)
+![Missão de São Benedito dos Muchopes-Mangunze, 1937](https://cdn.mangundze.org/parroquia/000007.jpg)
+![Missão de São Benedito dos Muchopes-Mangunze](https://cdn.mangundze.org/parroquia/000008.jpg)
 
 La Iglesia de la Misión es conocida en Mozambique por su tamaño monumental de 15 metros de ancho, 60 metros de largo y 15 metros de alto, que fue solemnemente bendecida el 6 de septiembre de 1942. Abarca 44 capillas, la más lejana ubicada a 90 kilómetros.
 

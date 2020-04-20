@@ -1,7 +1,7 @@
 ---
 title: ¿Dónde Estamos?
 date: 2018-11-18 21:10:54
-img: http://cdn.mangundze.org/parroquia/000007.jpg
+img: https://cdn.mangundze.org/parroquia/000007.jpg
 summary: ¿Querés saber dónde estamos ubicados?
 tags: false
 categories:

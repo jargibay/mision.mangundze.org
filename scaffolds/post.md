@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-thumbnail: http://cdn.mangundze.org/parroquia/000004.jpg
+thumbnail: https://cdn.mangundze.org/parroquia/000004.jpg
 tags:
 categories:
   - Sobre Nosotros

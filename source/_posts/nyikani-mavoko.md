@@ -1,6 +1,6 @@
 ---
 title: Associação Nyikani Mavoko
-img: 'http://cdn.mangundze.org/parroquia/000009.jpg'
+img: 'https://cdn.mangundze.org/parroquia/000009.jpg'
 summary: Conocé más sobre la ONG que tiene su sede y trabaja en Misión Mangundze
 date: 2020-04-02 13:32:52
 tags: false
