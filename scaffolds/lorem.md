@@ -1,8 +1,10 @@
 ---
 title: {{ title }}
 date: {{ date }}
-thumbnail: https://cdn.mangundze.org/parroquia/000004.jpg
-tags:
+img: https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+tags: 
+  - Default
 categories:
   - Nuestro Trabajo
 comment:

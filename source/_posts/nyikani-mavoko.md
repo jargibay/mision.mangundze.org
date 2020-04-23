@@ -1,11 +1,11 @@
 ---
 title: Associação Nyikani Mavoko
 img: 'https://cdn.mangundze.org/parroquia/000009.jpg'
-summary: Conocé más sobre la ONG que tiene su sede y trabaja en Misión Mangundze
+summary: Conocé más sobre la asociación que trabaja en Misión Mangundze
 date: 2020-04-02 13:32:52
 tags: false
 categories:
-  - Sobre Nosotros
+  - Salud
   - Associação Nyikani Mavoko
 comment:
   facebook:
@@ -14,7 +14,7 @@ comment:
     comment_colorscheme: dark
 ---
 
-# Sobre la Fundación “Associação Nyikani Mavoko”.
+# Sobre la “Associação Nyikani Mavoko”.
 La Asociación Nyikani Mavoko es una organización sin fines de lucro con personería jurídica y autonomía administrativa, financiera y patrimonial, aprobada por normativa de Mozambique el 15 de julio de 2016, bajo el Número Único de Identificación Tributaria: 700158901. 
 Tiene su sede en la Misión San Benito de Mangundze, distrito de Manjakaze, Provincia de Gaza.
 Sus Objetivos son:
@@ -29,7 +29,6 @@ Autoridades:
 1. Bruno Miguel Ferreira Morgado – Vicepresidente
 1. Hans Abraham Thompson Behrens – Secretario
 1. Stefano Paris – 1° Vocal
-1. Sheila Osmane Mossa – 2° Vocal
 
 {% iframe "https://cdn.mangundze.org/documentos/Estatutos.pdf" 80% 900px %}
 {% iframe "https://cdn.mangundze.org/documentos/Registro CREL.pdf" 80% 900px %}

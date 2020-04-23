@@ -21,10 +21,8 @@ Los trabajos de fundación de la Misión, que originariamente se llamaba ´Miss�
 ![Missão de São Benedito dos Muchopes-Mangunze, 1937](https://cdn.mangundze.org/parroquia/000007.jpg)
 ![Missão de São Benedito dos Muchopes-Mangunze](https://cdn.mangundze.org/parroquia/000008.jpg)
 
-La Iglesia de la Misión es conocida en Mozambique por su tamaño monumental de 15 metros de ancho, 60 metros de largo y 15 metros de alto, que fue solemnemente bendecida el 6 de septiembre de 1942. Abarca 44 capillas, la más lejana ubicada a 90 kilómetros.
+En 1975, año de la independencia de Mozambique, la misión pasó a llamarse **Misión de San Benito de Mangundze**. En ese entonces en el área de la misión vivían 62.500 personas, de las cuales 26.900 eran católicas.
 
-En 1975, año de la independencia de Mozambique, la misión pasó a llamarse **“Misión de San Benito de Mangundze”**.  En ese entonces en el área de la misión vivían 62.500 personas, de las cuales 26.900 eran católicas.  Durante las nacionalizaciones y la guerra en Mozambique la iglesia fue encerrada y los misioneros fueron obligados a salir. Con el fin de la guerra civil, en 1997 se inició el trabajo de recuperación de la Iglesia cuya estructura se encontraba muy dañada.
+Durante las nacionalizaciones y la guerra en Mozambique la iglesia fue cerrada y los misioneros fueron obligados a salir. Con el fin de la guerra civil, en 1997 se inició el trabajo de recuperación de la Iglesia cuya estructura se encontraba muy dañada.
 
-Desde 2015, el Párroco de la **Misión San Benito de Mangundze** es el **Presbítero Juan Gabriel Arias**, un párroco argentino que trabajaba como misionero en Mozambique desde el año 2000.
-
-En 2016, con la finalidad de acompañar y apoyar al desarrollo de la Misión San Benito de Mangundze, un grupo de la comunidad creó la Fundación “Associação Benéfica Nyikani Mavoko”.
+Actualmente, la estructura se ha reparado y cientos de personas se reúnen para celebrar la Misa y donde encuentran un espacio para enriquecer su vida cristiana.
