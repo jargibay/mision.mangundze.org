@@ -23,9 +23,9 @@ menu:
     url: /nyikani-mavoko/
     icon: fa-user-circle-o
     dropdownMenuId: Nosotros
-#  Donar:
-#    url: /donar/
-#    icon: fa-money
+  Donar:
+    url: /Donar/
+    icon: fa-money
   English:
     url: http://mission.mangundze.org/
   Portugués:
