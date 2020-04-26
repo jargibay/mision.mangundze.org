@@ -3,11 +3,11 @@ title: ¿Dónde Estamos?
 date: 2018-11-18 21:10:54
 img: https://cdn.mangundze.org/parroquia/000007.jpg
 summary: ¿Querés saber dónde estamos ubicados?
-tags: false
+tags:
+  - homepage
 categories:
   - Sobre Nosotros
   - Donde estamos
-  - homepage
 comment:
   facebook:
     language: es_LA

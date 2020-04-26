@@ -68,9 +68,6 @@ highlight:
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  order_by: -date
 
 # whether the hexo-generator-index2 include the offical hexo-generator-index, default is true
 index2_include_index: true # defult is true
@@ -79,9 +76,9 @@ index2_include_index: true # defult is true
 index2_generator:
   - layout: 'index' # use existing archive layout
     include:
-      - category homepage # include article which category is Web
+      - tag homepage # include article which category is Web
     exclude:
-      - tag Hexo # exclude article which tag is Hexo
+      - category Hexo # exclude article which tag is Hexo
     index: true # Set whether index, results is_home() is true or not
     per_page: 9
 

@@ -3,7 +3,8 @@ title: Biografía de Juan Gabriel Arias
 date: 2018-11-18 20:44:44
 img: https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg
 summary: Conocé al cura Párroco de la Misión San Benito de Mangundze
-tags: false
+tags:
+  - homepage
 categories:
   - Sobre Nosotros
   - Juan Gabriel Arias

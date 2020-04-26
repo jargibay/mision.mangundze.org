@@ -2,6 +2,7 @@
 title: 'Si el COVID-19 llega a Mozambique, moriremos muchos.'
 thumbnail: 'https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg'
 categories:
+  - Prensa
   - Coronavirus
 comment:
   facebook:
@@ -10,8 +11,7 @@ comment:
     comment_colorscheme: dark
 date: 2020-04-23 12:31:28
 tags:
-  - COVID-19
-  - Entrevista
+  - homepage
 ---
 ## Entrevista a Juan Gabriel Arias, abril de 2020
 {% blockquote %}

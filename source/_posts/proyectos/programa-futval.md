@@ -7,7 +7,7 @@ tags: false
 categories:
   - Proyectos
   - Scholas Ocurrentes
-  - homepage
+  - FutVal
 comment:
   facebook:
     language: es_LA

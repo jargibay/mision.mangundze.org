@@ -3,7 +3,8 @@ title: Misión humanitaria de los Cascos Blancos
 date: 2018-11-18 21:10:54
 img: https://cdn.mangundze.org/parroquia/000010.jpg
 summary: El proyecto para el fortalecimiento de las capacidades de auto producción de alimentos en Mangundze
-tags: false
+tags:
+  - homepage
 categories:
   - Cascos Blancos
 comment:

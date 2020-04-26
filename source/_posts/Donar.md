@@ -14,6 +14,8 @@ date: 2020-04-24 14:23:01
 
 # Contribuya con la Misión y done
 
+{% youtube gxAnfbEurng %}
+
 Si quiere colaborar con el trabajo de la Misión Mangundze, puede utilizar los siguientes canales:
 
 ## Desde Mozambique
