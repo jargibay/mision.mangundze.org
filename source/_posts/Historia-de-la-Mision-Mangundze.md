@@ -3,8 +3,7 @@ title: Historia de la Misión Mangundze
 date: 2018-11-18 20:38:50
 img: https://cdn.mangundze.org/parroquia/000004.jpg
 summary: Un breve recorrido desde nuestros inicios en 1911 hasta hoy.
-tags:
-  - homepage
+tags: false
 categories:
   - Sobre Nosotros
   - Historia de la Misión

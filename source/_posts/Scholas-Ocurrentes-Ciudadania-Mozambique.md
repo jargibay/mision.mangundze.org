@@ -1,6 +1,6 @@
 ---
 title: 'Scholas Ocurrentes: Ciudadanía Mozambique'
-img: 'https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg'
+img: 'https://i.ytimg.com/vi/hLVcca1Wsek/maxresdefault.jpg'
 summary: 'El proyecto ciudadanía busca que los jóvenes se pregunten que quieren hacer con su comunidad.'
 tags:
   - homepage

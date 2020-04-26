@@ -68,6 +68,10 @@ highlight:
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: '/todas/'
+  order_by: -date
+  per_page: 12
 
 # whether the hexo-generator-index2 include the offical hexo-generator-index, default is true
 index2_include_index: true # defult is true
