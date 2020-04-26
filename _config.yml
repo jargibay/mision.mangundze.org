@@ -70,9 +70,21 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 15
   order_by: -date
-  
+
+# whether the hexo-generator-index2 include the offical hexo-generator-index, default is true
+index2_include_index: true # defult is true
+
+# the custom index2 generator, can be array or object
+index2_generator:
+  - layout: 'index' # use existing archive layout
+    include:
+      - category homepage # include article which category is Web
+    exclude:
+      - tag Hexo # exclude article which tag is Hexo
+    index: true # Set whether index, results is_home() is true or not
+    per_page: 9
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -146,21 +158,6 @@ hfc_img:
   jpegrecompressQuality: 'medium'
   optipng: true
   svgo: true
-
-hfc_favicons:
-  enable: true
-  src: "../../../../cdn.mangundze.org/public/mision-mangundze-logo.jpg"
-  target: "/media/logo/"
-  icons:
-    android: true
-    appleIcon: true
-    appleStartup: false
-    coast: false
-    favicons: true
-    firefox: true
-    opengraph: true
-    windows: true
-    yandex: false
 
 feed:
   type: atom

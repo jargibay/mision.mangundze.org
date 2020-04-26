@@ -7,6 +7,7 @@ tags: false
 categories:
   - Sobre Nosotros
   - Historia de la Misión
+  - homepage
 comment:
   facebook:
     language: es_LA

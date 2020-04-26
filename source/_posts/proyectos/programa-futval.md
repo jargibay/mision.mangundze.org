@@ -7,6 +7,7 @@ tags: false
 categories:
   - Proyectos
   - Scholas Ocurrentes
+  - homepage
 comment:
   facebook:
     language: es_LA

@@ -8,6 +8,7 @@ tags:
 categories:
   - Campaña de prevención
   - Coronavirus
+  - homepage
 comment:
   facebook:
     language: es_LA

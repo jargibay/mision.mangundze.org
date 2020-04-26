@@ -7,6 +7,7 @@ tags: false
 categories:
   - Sobre Nosotros
   - Donde estamos
+  - homepage
 comment:
   facebook:
     language: es_LA

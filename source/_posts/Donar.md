@@ -1,10 +1,9 @@
 ---
 title: Donar
-img: 'https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg'
-summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+img: 'https://cdn.mangundze.org/parroquia/000009.jpg'
+summary: 'Si quiere colaborar con el trabajo de la Misión Mangundze, puede utilizar los siguientes canales.'
 tags:
   - Donaciones
-categories: false
 comment:
   facebook:
     language: es_LA
@@ -15,10 +14,14 @@ date: 2020-04-24 14:23:01
 
 # Contribuya con la Misión y done
 
-Ayudenos a poder seguir ayudando, y colabore con la Misión Mangundze, utilizando alguno de los siguientes canales:
+Si quiere colaborar con el trabajo de la Misión Mangundze, puede utilizar los siguientes canales:
 
 ## Desde Mozambique
-Lorem ipsum.
+Conta no banco BCI
+{% blockquote %}
+Asociaçao Nyikani Mavoko
+NIB: 0008 0000 48461508101 95
+{% endblockquote %}
 
 ## Desde Argentina
 Los argentinos pueden colaborar con la Misión mediante transferencia bancaria, via CBU:

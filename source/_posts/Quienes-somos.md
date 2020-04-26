@@ -1,9 +1,11 @@
 ---
 title: La Misión en Mangundze
 img: https://cdn.mangundze.org/parroquia/000004.jpg
+summary: La misión de San Benedito de Mangundze.
 date: 2018-11-15 14:40:44
 tags: false
-categories: false
+categories:
+  - homepage
 comment:
   facebook:
     language: es_LA
