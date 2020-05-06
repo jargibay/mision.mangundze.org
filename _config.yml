@@ -179,7 +179,7 @@ archive_generator:
   order_by: -date
 
 node_sass:
-  debug: true
+  debug: false
   outputStyle: nested
   precision: 5
   sourceComments: false
