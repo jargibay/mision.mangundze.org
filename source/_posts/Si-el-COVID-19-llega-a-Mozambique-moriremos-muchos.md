@@ -1,6 +1,7 @@
 ---
 title: 'Si el COVID-19 llega a Mozambique, moriremos muchos.'
 thumbnail: 'https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg'
+summary: 'Entrevista a nuestro parroco, Juan Gabriel Arias, en el diario Infobae.'
 categories:
   - Prensa
   - Coronavirus

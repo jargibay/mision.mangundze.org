@@ -27,4 +27,4 @@ Es argentino. Nació el 27 de febrero de 1968. Es Sacerdote de la Arquidiócesis
 {% youtube _pxXEeNArJw%}
 
 ### Nota en INFOBAE, Febrero de 2020
-{% iframe "https://www.infobae.com/sociedad/2020/02/03/el-cura-argentino-que-misiona-en-mozambique-y-la-conmovedora-historia-una-joven-que-solo-sonaba-estudiar/" 80% 900px %}
+{% iframe "https://www.infobae.com/sociedad/2020/02/03/el-cura-argentino-que-misiona-en-mozambique-y-la-conmovedora-historia-una-joven-que-solo-sonaba-estudiar/?outputType=amp-type" 80% 900px %}
