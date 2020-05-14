@@ -1,9 +1,9 @@
 ---
 title: Cambiar la vida de alguien con muy poco
-img: 'https://cdn.mangundze.org/juan-gabriel-arias/juan-gabriel-arias-0001.jpg'
+img: 'https://cdn.mangundze.org/retratos/Laura.jpg'
 summary: 'La historia de Laura.'
 tags:
-  - Default
+  - homepage
 categories:
   - Nuestro Trabajo
 comment:
@@ -16,7 +16,7 @@ date: 2020-05-08 16:13:47
 
 # La historia de Laura
 
-{% youtube completar %}
+{% youtube JAiFULT1eOc %}
 
 Laura es una chica de 7 años, que por su discapacidad depende completamente de su madre para ir y volver de la escuela.
 
@@ -27,4 +27,10 @@ La silla de ruedas me la trajo el Papa Francisco cuando vino en visita pastoral 
 Muchas veces se puede cambiar la vida de una persona sin dinero. Solo ocupándose, haciéndose cargo.
 Hay muchas Lauras que necesitan ayuda.
 
-{% iframe https://cdn.mangundze.org/cartas/carta-Francisco-a-Silvina.pdf 80% 900px %}
+El Papa Francisco agradeció personalmente la donación de Silvina.
+
+{% iframe https://cdn.mangundze.org/cartas/carta-Francisco-a-Silvina.pdf 80% 450px %}
+
+-------
+
+{% iframe https://alfayomega.es/204529/una-silla-de-ruedas-para-laura 80% 900px %}

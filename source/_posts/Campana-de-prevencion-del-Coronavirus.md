@@ -1,6 +1,6 @@
 ---
 title: Campaña de prevención del Coronavirus
-img: 'https://cdn.mangundze.org/covid19/21.jpeg'
+img: 'https://cdn.mangundze.org/covid19/full_21.jpeg'
 summary: 'Voluntarios llevando las medidas de prevención a todos'
 tags:
   - COVID-19
@@ -23,53 +23,53 @@ Para prevenir el contagio, y disminuir la velocidad de propagación de la enferm
 
 A continuación les dejamos algunas de las fotos.
 
-{% img https://cdn.mangundze.org/covid19/1.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/2.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/3.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/4.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/5.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/6.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/7.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/8.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/9.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/10.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/11.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/12.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/13.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/14.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/15.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/16.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/17.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/18.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/19.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/20.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/21.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/22.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/23.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/24.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/25.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/26.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/27.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/28.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/29.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/30.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/31.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/32.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/33.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/34.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/35.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/36.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/37.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/38.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/39.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/40.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/41.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/42.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/43.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/44.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/45.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/46.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/47.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/48.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/49.jpeg "Campaña contra el coronavirus" %}
-{% img https://cdn.mangundze.org/covid19/50.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_1.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_2.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_3.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_4.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_5.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_6.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_7.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_8.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_9.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_10.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_11.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_12.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_13.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_14.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_15.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_16.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_17.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_18.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_19.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_20.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_21.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_22.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_23.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_24.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_25.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_26.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_27.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_28.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_29.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_30.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_31.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_32.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_33.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_34.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_35.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_36.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_37.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_38.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_39.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_40.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_41.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_42.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_43.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_44.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_45.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_46.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_47.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_48.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_49.jpeg "Campaña contra el coronavirus" %}
+{% img https://cdn.mangundze.org/covid19/full_50.jpeg "Campaña contra el coronavirus" %}
