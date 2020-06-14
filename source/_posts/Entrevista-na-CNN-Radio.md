@@ -28,4 +28,4 @@ Aquí VC pode escutar o audio da entrevista:
 
 ----
 
-{% iframe https://radiocut.fm/audiocut/embed/hori/juan-gabriel-arias-en-jogo-bonito/ 100% 175px %}
+{% iframe https://radiocut.fm/audiocut/embed/hori/juan-gabriel-arias-en-jogo-bonito/ 100% 280px %}
