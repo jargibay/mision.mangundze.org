@@ -1,11 +1,11 @@
 ---
-title: Proyecto Agua Segura
+title: Projeto Hippo Rollers
 thumbnail: http://cdn.mangundze.org/fundaciones/fundacion-morgado.png
 date: 2018-11-17 12:30:28
 tags: false
 categories:
-  - Sobre Nosotros
-  - Proyectos
+  - Sobre Nos
+  - Projetos
   - Hippo Rollers
 comment:
   facebook:
@@ -14,29 +14,29 @@ comment:
     comment_colorscheme: dark
 ---
 
-## Proyecto "Hippo Rollers"
+## Projeto "Hippo Rollers"
 
-Gracias a la Fundación Carlos Morgado, que coordinó esta iniciativa, se logró  comprar y transportar 50 Hippo Water Rollers (www.hipporoller.org) desde Sudáfrica para ser entregadas al Padre Juan Gabriel Arias, quien fue el responsable de su distribución a la población.
+Graças à Fundação Carlos Morgado, que coordenou essa iniciativa, foi possível comprar e transportar 50 “Hippo Rollers” (www.hipporoller.org) da África do Sul para serem entregues ao padre Juan Gabriel Arias, responsável por sua distribuição à população.
 
 
-{% img http://cdn.mangundze.org/bidones/000002.jpg [Proyecto Agua Segura.] %}
+{% img http://cdn.mangundze.org/bidones/000002.jpg [Projeto Hippo Rollers.] %}
 
-Un _Hippo Water Roller_ es un tambor de plástico de alta capacidad (90 litros) que se puede trasladar rodando cuando se llena, en lugar de los envases tradicionales que requieren transporte, a menudo en la cabeza. El plan fue que las familias compartieran los Hippo Water Roller, generando un impacto en la vida de 250 familias, o aproximadamente 1,250 personas.
+Um _Hippo Water Roller_ é um tambor de plástico de alta capacidade (90 litros) que pode ser enrolado quando cheio, em vez de embalagens tradicionais que exigem transporte, geralmente, sobre a cabeça. O plano era que as famílias compartilhassem os Hippo Rollers, causando um impacto na vida de 250 famílias, ou aproximadamente 1.250 pessoas.
 
-{% img http://cdn.mangundze.org/bidones/000003.jpg [Proyecto Agua Segura.] %}
+{% img http://cdn.mangundze.org/bidones/000003.jpg [Projeto Hippo Rollers.] %}
 
-Con los Hippo Rollers, la población puede recolectar agua potable y transportarla fácilmente a sus hogares. El uso de esta solución tiene los siguientes beneficios inmediatos:
+Com os Hippo Rollers, a população pode coletar água potável e transportá-la facilmente para suas casas. O uso desta solução possui os seguintes benefícios imediatos:
 
-- Hace que la recolección de agua potable sea más rápida
-- Reduce la tensión física de transportar el agua.
-- Alivia a las mujeres y los niños a tener más tiempo para la educación, los medios de vida y las actividades sociales.
+- Torna a coleta de água potável mais rápida.
+- Reduz o estresse físico do transporte de água.
+- Alivia mulheres e crianças a terem mais tempo para educação, meios de subsistência e atividades sociais.
 
-*El uso de Hippo Rollers no reemplaza la necesidad de nuevas fuentes de agua, pero con una vida útil de 5-7 años, aliviará este estrés en la comunidad mientras se hacen esfuerzos para abrir nuevos puntos de acceso al agua.*
+> O uso do Hippo Rollers não substitui a necessidade de novas fontes de água, mas com uma vida útil de 5 a 7 anos, aliviará esse estresse na comunidade, à medida que forem feitos esforços para abrir novos pontos de acesso à água.
 
-{% img http://cdn.mangundze.org/bidones/000004.jpg [Proyecto Agua Segura.] %}
+{% img http://cdn.mangundze.org/bidones/000004.jpg [Os Hippo Rollers em ação.] %}
 
-> Más información: http://www.carlosmorgado.org/pt/iniciativas/outros/hippo-rollers-em-mangundze/
+> Mais informação: http://www.carlosmorgado.org/pt/iniciativas/outros/hippo-rollers-em-mangundze/
 
 ***
 
-###### **_Este proyectro contribuye al logro del Objetivo de Desarrollo Sostenible (ODS) N° 6: "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos"._**
+###### **_Este projeto contribui para a consecução do Objetivo de Desenvolvimento Sustentável (ODS) nº 6: “Garantir a disponibilidade de água e sua gestão e saneamento sustentável para todos”._**
