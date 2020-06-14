@@ -1,6 +1,6 @@
 ---
 title: Mudar a vida de alguém com muito pouco
-thumbnail: 'https://cdn.mangundze.org/parroquia/000004.jpg'
+img: 'https://cdn.mangundze.org/retratos/Laura.jpg'
 categories:
   - Nuestro Trabajo
 comment:
@@ -11,5 +11,17 @@ comment:
 date: 2020-06-14 17:34:04
 tags:
 ---
+{% youtube Fx66rHZqdCI %}
+Laura é uma menina de 7 anos que, devido à sua deficiência, depende completamente da mãe para ir e voltar da escola.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ontem entregamos a cadeira de rodas, doada pela minha amiga Silvina Perez, quem mora na Itália.
+
+A cadeira de rodas foi trazida a mim pelo Papa Francisco quando ele veio em uma visita pastoral a Moçambique.
+
+Muitas vezes, a vida de uma pessoa pode ser mudada, sem dinheiro. Há muitas “Lauras” que precisam de ajuda. O Papa Francisco agradeceu pessoalmente a doação de Silvina.
+
+{% iframe https://cdn.mangundze.org/cartas/carta-Francisco-a-Silvina.pdf 80% 450px %}
+
+-------
+
+{% iframe https://alfayomega.es/204529/una-silla-de-ruedas-para-laura 80% 900px %}
