@@ -16,6 +16,15 @@ comment:
 ---
 É argentino. Nasceu em 27 de fevereiro de 1968. É sacerdote da arquidiocese de Buenos Aires. Seus primeiros 6 anos como sacerdote foram na Paróquia da Imaculada Conceição de Belgrano, em Buenos Aires. Em 2000, ele teve sua primeira experiência pastoral em Moçambique, na diocese de Xai-Xai. Quando voltou, foi pároco da Natividad de María, localizada no bairro de Barracas, por 9 anos. Ele foi membro do Conselho de Administração da Racing por 4 anos e meio. Ele fez muitas viagens missionárias a Moçambique, mas foi a partir de 2015 que ele se estabeleceu permanentemente no país africano.
 
+## Na mídia
+
 {% img "https://s3-us-west-2.amazonaws.com/repo.diariojornada.com.ar/imagenes/2015/11/23/hd/3030456E624D6375464358794A4C7A5532724D4E4E673D3D.png" %}
 
-{% iframe "https://www.infobae.com/sociedad/2020/02/03/el-cura-argentino-que-misiona-en-mozambique-y-la-conmovedora-historia-una-joven-que-solo-sonaba-estudiar/" %}
+{% youtube IxK4QZBeDZA %}
+
+### Misas na missão
+
+{% youtube _pxXEeNArJw%}
+
+### Nota no INFOBAE, Fevereiro de 2020
+{% iframe "https://www.infobae.com/sociedad/2020/02/03/el-cura-argentino-que-misiona-en-mozambique-y-la-conmovedora-historia-una-joven-que-solo-sonaba-estudiar/?outputType=amp-type" 80% 900px %}
