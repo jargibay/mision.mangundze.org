@@ -1,10 +1,8 @@
 ---
-title: Alimentación y Nutrición
-thumbnail: 'http://cdn.mangundze.org/parroquia/000004.jpg'
-img: 'http://cdn.mangundze.org/parroquia/000004.jpg'
+title: Proyecto Desayunos
+img: 'https://cdn.mangundze.org/desayunos/000006.jpg'
+summary: El programa de Fundación Leo Messi en Mangundze.
 categories:
-  - Proyectos
-  - Alimentación
   - Proyecto Desayunos
 comment:
   facebook:
@@ -12,11 +10,29 @@ comment:
     comment_count: 20
     comment_colorscheme: dark
 date: 2015-06-01 22:26:50
-tags: false
+tags:
+  - homepage
 ---
 
-# Proyecto Desayunos
+## Proyecto "Desayunos"
 
-Desde su comienzo muy humilde, hoy gracias al apoyo de Julian Weich y la Fundación Messi, se logró incorporar una segunda comida para los chicos que estudian en la escuela primaria.
+Gracias a la Fundación Leo Messi, alrededor de 15.000 niños y niñas de Mangundze que asisten a 30 escuelas primarias, reciben un desayuno en el caso del turno mañana y una merienda en el turno de la tarde, respectivamente. La gran mayoría de los estudiantes deben caminar entre 8 y 10 km desde sus casas para asistir a la escuela y regresar en el día. Por la falta de infraestructura y recursos, estos recorridos los hacen sin hidratación.
+
+{% img 'https://cdn.mangundze.org/desayunos/000001.jpg' %}
+{% img 'https://cdn.mangundze.org/desayunos/000002.jpg' %}
+{% img 'https://cdn.mangundze.org/desayunos/000003.jpg' %}
+
+A partir de la epidemia de COVID-19, los chicos utilizan barbijos confeccionados en el taller de {% post_link Proyecto-de-Costura 'costura' %} de la mision.
+
+El objetivo del proyecto es reducir la malnutrición crónica, para mejorar la calidad de vida del alumnado y el rendimiento escolar.
+
+El Padre Juan Gabriel Arias, es el responsable de la distribución y logística de este proyecto, y lo hace a través de comedores escolares. Gracias a su aporte, se brinda el desayuno a los niños del turno mañana y la merienda a aquellos que asisten al turno tarde.
+
+> Más información: http://www.fundacionleomessi.org/portfolio_page/programa-para-combatir-la-desnutrucion-infantil-en-mozambique/
+
+***
+
+#### **_Este proyecto contribuye al logro del Objetivo de Desarrollo Sostenible (ODS) N° 2: "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible"._**
+
 
 {% youtube _qDULx0zNb0 %}
